@@ -1,0 +1,14 @@
+
+#main{
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10%;
+    background-color: black;
+}
+#enter{
+    background-color: rgb(76, 216, 76);
+    width: 20%;
+    padding: 2%;
+}
